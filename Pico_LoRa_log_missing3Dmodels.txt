@@ -1,0 +1,1 @@
+[('U3', '/Applications/KiCad/KiCad.app/Contents/SharedSupport/3dmodels/RF_Module.3dshapes/HOPERF_RFM9XW_SMD.wrl')]

@@ -1,0 +1,10 @@
+### Missing 3D models - created on 2022-01-30 14:54
+### Printed by checking_3D_models plugin
+Board file: /Users/frankkirschbaum/Documents/KiCad/projects/pico_lora/Pico_LoRa.kicad_pcb
+3D missing models written to:
+/Users/frankkirschbaum/Documents/KiCad/projects/pico_lora/Pico_LoRa_missing3Dmodels.txt
+-------
+('U3', '/Applications/KiCad/KiCad.app/Contents/SharedSupport/3dmodels/RF_Module.3dshapes/HOPERF_RFM9XW_SMD.wrl')
+-------
+NUM of 3D missing models:1
+checked extensions ['.stp', '.step', '.stpZ']
