@@ -3,7 +3,7 @@
   (lib (name "TI_LM3100")(type "Legacy")(uri "${KIPRJMOD}/TI_LM3100.lib")(options "")(descr ""))
   (lib (name "TI_TPS25940x")(type "Legacy")(uri "${KIPRJMOD}/TI_TPS25940x.lib")(options "")(descr ""))
   (lib (name "Xysemi")(type "Legacy")(uri "${KIPRJMOD}/Xysemi.lib")(options "")(descr ""))
-  (lib (name "MCU_RaspberryPi_and_Boards")(type "Legacy")(uri "${KICAD6_USER_SYMBOLS_DIR}/MCU_RaspberryPi_and_Boards.lib")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "Legacy")(uri "${KICAD6_USER_SYMBOL_DIR}/MCU_RaspberryPi_and_Boards.lib")(options "")(descr ""))
   (lib (name "SparkFun-Aesthetics")(type "Legacy")(uri "${KICAD6_3RD_PARTY}/resources/SparkFun-KiCad-Libraries/Libraries/SparkFun-Aesthetics.lib")(options "")(descr ""))
   (lib (name "SparkFun-Batteries")(type "Legacy")(uri "${KICAD6_3RD_PARTY}/resources/SparkFun-KiCad-Libraries/Libraries/SparkFun-Batteries.lib")(options "")(descr ""))
   (lib (name "SparkFun-Boards")(type "Legacy")(uri "${KICAD6_3RD_PARTY}/resources/SparkFun-KiCad-Libraries/Libraries/SparkFun-Boards.lib")(options "")(descr ""))
