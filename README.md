@@ -2,4 +2,4 @@
 
 LoRa Node based on Raspberry Pi Pico and LoRa board RFM95
 
-![Board rendering](co_LoRa.png)
+![Board rendering](pico_LoRa.png)
